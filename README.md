@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور روحي في عتمة أيامي
+> نار الغرام تسري في أحلامي
+> خذني إليك يا نبض فؤادي
+> عشقك دواء لكل سهادي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
