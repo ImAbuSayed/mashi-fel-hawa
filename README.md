@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 27, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mashi-fel-hawa/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Request Licensing for Mashi Fel Hawa](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
